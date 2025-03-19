@@ -1,4 +1,4 @@
-# game-web-data
+# "game" Web Data
 
 ## Repo to host data for my game.
 
